@@ -1,0 +1,4 @@
+{"id":1,"tname":"模板一","type":"A类型"}
+{"id":2,"tname":"模板二","type":"B类型"}
+{"id":3,"tname":"模板三","type":"C类型"}
+{"id":4,"tname":"模板四","type":"D类型"}

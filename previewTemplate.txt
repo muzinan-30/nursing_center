@@ -1,0 +1,6 @@
+{"id":2,"qid":1,"qcontent":"英语简单吗？"}
+{"id":2,"qid":2,"qcontent":"你爱我还是他"}
+{"id":2,"qid":5,"qcontent":"哪种水果你爱吃？"}
+{"id":1,"qid":1,"qcontent":"英语简单吗？"}
+{"id":1,"qid":3,"qcontent":"你喜欢哪个明星？"}
+{"id":1,"qid":4,"qcontent":"你喜欢那个颜色？"}

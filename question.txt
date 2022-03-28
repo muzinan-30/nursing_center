@@ -1,0 +1,5 @@
+{"id":1,"content":"英语简单吗？","type":"A类型","answer1":"简单","answer2":"适中","answer3":"困难"}
+{"id":2,"content":"你爱我还是他","type":"B类型","answer1":"都不爱","answer2":"爱自己","answer3":"爱世界"}
+{"id":3,"content":"你喜欢哪个明星？","type":"C类型","answer1":"周杰伦","answer2":"陈冠希","answer3":"梁朝伟"}
+{"id":4,"content":"你喜欢那个颜色？","type":"D类型","answer1":"红色","answer2":"蓝色","answer3":"绿色"}
+{"id":5,"content":"哪种水果你爱吃？","type":"A类型","answer1":"苹果","answer2":"香蕉","answer3":"菠萝"}

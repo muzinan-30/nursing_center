@@ -1,0 +1,2 @@
+{"name":"张飞","age":"19","gender":"男","idNumber":"5123","phoneNumber":3123,"emergencyContact":"关羽","ecPhone":949}
+{"name":"司马懿","age":"49","gender":"男","idNumber":"520","phoneNumber":5123,"emergencyContact":"司马诸葛","ecPhone":996}
